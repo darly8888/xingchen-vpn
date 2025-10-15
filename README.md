@@ -47,35 +47,37 @@
 
 ## 客户端下载地址
 
+
 ### Windows (不再支持 Win7)
 
 - **正常版本**（推荐）
-  - 64位（常用）
-  - ARM64（不常用）
-- **内置Webview2版**（体积较大，仅在企业版系统或无法安装Webview2时使用）
-  - 64位
-  - ARM64
+  - [64位](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.2-windows-amd64-setup.exe)（常用）
+  - [ARM64](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.2-windows-amd64.zip)（不常用）
 
 ### macOS
 
-- **Apple M芯片**
-- **Intel芯片**
+- [**Apple M芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.1-macos-arm64.pkg)
+- [**Intel芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.1-macos-amd64.pkg)
 
 ### Linux
 
-- **DEB包**（Debian系）使用 `apt ./路径` 安装
-  - 64位
-  - ARM64
-  - ARMv7
+- **DEB包**（Debian/Ubuntu系）使用 `apt ./路径` 安装
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.1-linux-amd64.deb)
 - **RPM包**（Redhat系）使用 `dnf ./路径` 安装
-  - 64位
-  - ARM64
-  - ARMv7
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.1-linux-amd64.rpm)
+- **AppImage包**（通用系列）
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN-1.4.1-linux-amd64.AppImage)
+
+### Android(安卓）
+- [**arm64-v8a**](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN.seppd-1.4.2-android-arm64-v8a.apk)（常用新款手机）
+- [**armeabi-v7a**](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN.seppd-1.4.2-android-armeabi-v7a.apk)（不常用老款手机）
+- [**universal**](https://github.com/darly8888/xingchen-vpn/releases/download/app/XingChenVPN.seppd-1.4.2-android-universal.apk)（通用）
+
 
 ## 常见问题 (FAQ)
 
-- 常见问题解答
-- 稳定机场VPN推荐
+- Windows11出现无法获取节点列表的情况，请务必以管理员身份启动，关闭防火墙或app加白名单，重启系统。或更换其他版本操作系统。
+- 客户端登录失败，如果无法登录app，请到官网反馈客服
 
 ## 结语
 
