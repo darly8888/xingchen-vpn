@@ -52,8 +52,7 @@
 
 ### Windows (不再支持 Win7)
 
-- **正常版本**（推荐）
-  - [Windows](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-windows.zip)（常用）
+- [Windows](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-windows.zip)（常用）
 
 ### macOS
 
