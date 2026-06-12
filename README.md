@@ -1,11 +1,11 @@
-# 星辰VPN - 高速、稳定、高性价比的 V2Ray / Trojan / Shadowsocks 机场推荐
+# 星辰VPN - 高速、稳定、高性价比的 V2Ray / Trojan / Anytls 机场推荐
 
-星辰VPN 是由海外团队运营的优质 **V2Ray** / **Trojan** / **Shadowsocks** 机场，提供稳定、快速且高性价比的互联网加速服务。我们提供 **BGP中转+IPLC专线+专线直连** 等多种线路选择，致力于为全球用户提供高速流畅的网络体验，支持观看 Netflix、Hulu、HBO、TVB 等国外流媒体视频。
+星辰VPN 是由海外团队运营的优质 **V2Ray** / **Trojan** / **Anytls** 机场，提供稳定、快速且高性价比的互联网加速服务。我们提供 **BGP中转+IPLC专线+专线直连** 等多种线路选择，致力于为全球用户提供高速流畅的网络体验，支持观看 Netflix、Hulu、HBO、TVB 等国外流媒体视频。
 
 ## 官网与社群链接
 
 - [星辰VPN官网](https://xcvpn.us/)
-- [大陆访问](https://a.xcvpn.me/)
+- [大陆访问](https://155.248.203.180:8888)
 - [TG通知群](https://t.me/starrySkyCloud)
 
 ## 优惠活动
@@ -45,38 +45,34 @@
 3. **免受网站封锁**：即使网站被封，您也能通过客户端随时访问。
 4. **实时更新节点**：客户端内的节点列表会自动实时更新，确保获取最稳定的线路。
 
-## 客户端下载地址
+## 使用教程
+教程中心：[https://doc.xcvpn.me](https://doc.xcvpn.me/)
 
+## 客户端下载地址
 
 ### Windows (不再支持 Win7)
 
 - **正常版本**（推荐）
-  - [AMD64位](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-windows-amd64-setup.exe)（常用）
+  - [Windows](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-windows.zip)（常用）
 
 ### macOS
 
-- [**Apple M芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-macos-arm64.pkg)
-- [**Intel芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-macos-amd64.pkg)
+- [**macOS**](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-macos.zip)
 
 ### Linux
 
-- **DEB包**（Debian/Ubuntu系）使用 `apt ./路径` 安装
-  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-linux-amd64.deb)
-- **RPM包**（Redhat系）使用 `dnf ./路径` 安装
-  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-linux-amd64.rpm)
-- **AppImage包**（通用系列）
-  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN-2.0.1-linux-amd64.AppImage)
+- [Linux](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-linux.zip)
 
 ### Android(安卓）
-- [**arm64-v8a**](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN.seppd-2.0.1-android-arm64-v8a.apk)（常用新款手机）
-- [**armeabi-v7a**](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN.seppd-2.0.1-android-armeabi-v7a.apk)（不常用老款手机）
-- [**universal**](https://github.com/darly8888/xingchen-vpn/releases/download/V2.0.1/XingChenVPN.seppd-2.0.1-universal.apk)（通用）
+- [**Android**](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-android-universal.apk)
 
+### IOS（苹果）
+- [**IOS**](https://apps.apple.com/us/app/nextin/id6754002454)
+- 启动后首页输入 xingchen ，下一页登录账号密码，即可使用。
 
 ## 常见问题 (FAQ)
 
-- Windows11出现无法获取节点列表的情况，请务必以管理员身份安装到D盘，以管理员身份启动，关闭防火墙或app加白名单，重启系统。实在不行只能更换其他版本操作系统了。
-- 客户端登录失败，如果无法登录app，请到官网反馈客服
+- 请查看[使用教程](https://doc.xcvpn.me/)问题。
 
 ## 结语
 
