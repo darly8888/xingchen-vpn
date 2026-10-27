@@ -5,7 +5,7 @@
 ## 官网与社群链接
 
 - [星辰VPN官网](https://xcvpn.us/)
-- [大陆访问](https://155.248.203.180:8888)
+- [大陆访问](https://xc1.luniu8.com)
 - [TG通知群](https://t.me/starrySkyCloud)
 
 ## 优惠活动
@@ -52,24 +52,40 @@
 
 ### Windows (不再支持 Win7)
 
-- [Windows](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-windows.zip)（常用）
+- **正常版本**（推荐）
+  - [AMD64位](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-windows-amd64-setup.exe)（常用）
+  - [ARM64位](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-windows-arm64-setup.exe)
+  - [AMD兼容版本](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-windows-amd64-compatible-setup.exe)（15年前的电脑使用）
+  -  [windows教程](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-windows.pdf)
+
+
 
 ### macOS
 
-- [**macOS**](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-macos.zip)
+- [**Apple M芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-macos-arm64.dmg)
+- [**Intel芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-macos-amd64.dmg)
+- [**Intel兼容版本芯片**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-macos-amd64-compatible.dmg)
+- [macOS教程](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-macos.pdf)
+
 
 ### Linux
 
-- [Linux](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-linux.zip)
+- **DEB包**（Debian/Ubuntu系）使用 `apt ./路径` 安装
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.14-linux-arm64.deb)
+  - [64位-amd-compatible](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.14-linux-amd64-compatible.deb)
+- **RPM包**（Redhat系）使用 `dnf ./路径` 安装
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.14-linux-amd64-compatible.rpm )
+- **AppImage包**（通用系列）
+  - [64位-amd](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.14-linux-amd64-compatible.AppImage)
+- [macOS教程](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.14-linux.md)
+
 
 ### Android(安卓）
-- [**Android**](https://download.kilxs.cn/xingchen/Xingchen-1.0.12-android-universal.apk)
+- [**arm64-v8a**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.16-android-arm64.apk)（常用新款手机）
+- [**armeabi-v7a**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.16-android-arm.apk)（不常用老款手机）
+- [**amd64**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.16-android-amd64.apk)（不常用老款手机）
+- [**universal**](https://github.com/darly8888/xingchen-vpn/releases/download/1.0.15/Xingchen-1.0.15-android-universal.apk)（通用）
 
-### IOS（苹果）
-- [**IOS**](https://apps.apple.com/us/app/nextin/id6754002454)
-- 启动后首页输入 xingchen ，下一页登录账号密码，即可使用。
-
-## 常见问题 (FAQ)
 
 - 请查看[使用教程](https://doc.xcvpn.me/)问题。
 
